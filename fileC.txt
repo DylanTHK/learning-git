@@ -1,1 +1,3 @@
 fileB sample content
+hcahnges
+change 2

@@ -1,1 +1,2 @@
 fileB sample content
+update 2
